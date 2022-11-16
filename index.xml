@@ -5,37 +5,44 @@
     <link>https://Kika-02.github.io/</link>
     <description>Recent content on Kika</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Nov 2022 21:05:53 +0800</lastBuildDate><atom:link href="https://Kika-02.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 17:46:30 +0800</lastBuildDate><atom:link href="https://Kika-02.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog</title>
-      <link>https://Kika-02.github.io/2022/11/my-first-blog/</link>
-      <pubDate>Mon, 14 Nov 2022 21:05:53 +0800</pubDate>
+      <title>My Life</title>
+      <link>https://Kika-02.github.io/2022/11/my-life/</link>
+      <pubDate>Wed, 16 Nov 2022 17:46:30 +0800</pubDate>
       
-      <guid>https://Kika-02.github.io/2022/11/my-first-blog/</guid>
-      <description></description>
+      <guid>https://Kika-02.github.io/2022/11/my-life/</guid>
+      <description>My family my father &amp;ndash; Zhaohua, an auditor my mother &amp;ndash; Xiaoyan, a teacher my dog &amp;ndash; Coco, the happiest one in history The declious food I tasted One time I was quarantined </description>
     </item>
     
     <item>
-      <title>Hello World Vno</title>
-      <link>https://Kika-02.github.io/2021/07/hello-world-vno/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
-      
-      <guid>https://Kika-02.github.io/2021/07/hello-world-vno/</guid>
-      <description>What&amp;rsquo;s this Vno Hugo is a theme for Hugo. It is a port of onevcat&amp;rsquo;s Vno Jekyll, which is originally developed from Dale Anthony&amp;rsquo;s Uno.
-Usage Inside the folder of your Hugo site run:
-git submodule add https://github.com/xslingcn/vno-hugo.git themes/vno-hugo Copy everything in the exampleSite folder to the root of your hugo site, then run hugo serve. Your site with Vno Hugo enabled should be accessible in http://localhost:1313/.
-For more information about Hugo, please visit Hugo&amp;rsquo;s site.</description>
-    </item>
-    
-    <item>
-      <title>Sample Post</title>
-      <link>https://Kika-02.github.io/2021/07/sample-post/</link>
+      <title>Work</title>
+      <link>https://Kika-02.github.io/2021/07/work/</link>
       <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
       
-      <guid>https://Kika-02.github.io/2021/07/sample-post/</guid>
-      <description>You’ll find this post in your posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply run:
-$ hugo new posts/my-sample-post.md And you shall see the my-sample-post.md file in posts directory, just edit the front matter and content as you like.</description>
+      <guid>https://Kika-02.github.io/2021/07/work/</guid>
+      <description>During my internship I helped my teacher, a chief doctor of nutritional department, organize two times of propaganda and education&amp;ndash; one is fouced on growing up for children, and another is focued on chronic obstructive pulmonary disease(COPD) for medical staff of the hospital, including writing activities summary reports.
+You can read them &amp;ndash; &amp;ldquo;Keep Growing Up&amp;rdquo; and &amp;quot; Nutriotional Prevention and Treatment of COPD&amp;quot;.</description>
+    </item>
+    
+    <item>
+      <title>INTRODUCTION</title>
+      <link>https://Kika-02.github.io/2019/09/introduction/</link>
+      <pubDate>Sun, 01 Sep 2019 21:05:53 +0800</pubDate>
+      
+      <guid>https://Kika-02.github.io/2019/09/introduction/</guid>
+      <description>&amp;mdash; Basic Information 1. Name Chinese Name: Jia Xu English Name: Kika 2. Birthday Gregorian Calendar: 2001.01.24 Lunar Calendar: SPRING FESTIVAL !!! in 2001 (Yes! We SHOULD NOT care about our age NO MATTTER how old we are, because it&amp;rsquo;s an HONOR that shows vigor, power or experience!)
+3. Gender &amp;mdash; Female : a Energetic and Creative Girl a Considerate and Elegant Lady 4. Hometowm &amp;mdash; Yancheng City, Jiangsu Province, China the Largest city in Jiangsu a Coastal city in the Eastern-Central part of China with the largest Red-crowned Crane Nature Reserve of China 5.</description>
+    </item>
+    
+    <item>
+      <title>CURRICULUM VITAE</title>
+      <link>https://Kika-02.github.io/2019/09/curriculum-vitae/</link>
+      <pubDate>Sun, 01 Sep 2019 07:28:27 +0800</pubDate>
+      
+      <guid>https://Kika-02.github.io/2019/09/curriculum-vitae/</guid>
+      <description>EDUCATION BACKGROUND Macau University of Science and Technology(MUST) &amp;mdash; 09/2019-08/2023 Bachelor&amp;rsquo;s Degree in Food and Nutritional Sciences AWARDS on the &amp;ldquo;Dean&amp;rsquo;s Honor List&amp;rdquo; of Faculty of Medicine of the academic year 2020/2021 INTERNSHIP EXPERIENCE 1. Yancheng NO.1 Peeple&amp;rsquo;s Hospital &amp;mdash; Inter of the Nutrition Department, 07/2022 - 08/2022
+Followed the Director of the Nutrition Department in outpatient service consultation and expert consultation, sorted out the nutritional needs of inpatients and drew the nutritional spectrum for them.</description>
     </item>
     
   </channel>
