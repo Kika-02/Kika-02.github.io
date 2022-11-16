@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://micheah.top/</loc>
+    <loc>/</loc>
     <lastmod>2022-11-16T17:46:30+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://micheah.top/zh-cn/"
+                href="/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://micheah.top/"
+                href="/"
                 />
   </url><url>
-    <loc>http://micheah.top/2022/11/my-life/</loc>
+    <loc>/2022/11/my-life/</loc>
     <lastmod>2022-11-16T17:46:30+08:00</lastmod>
   </url><url>
-    <loc>http://micheah.top/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-11-16T17:46:30+08:00</lastmod>
   </url><url>
-    <loc>http://micheah.top/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://micheah.top/zh-cn/tags/"
+                href="/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://micheah.top/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>http://micheah.top/2021/07/work/</loc>
+    <loc>/2021/07/work/</loc>
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
   </url><url>
-    <loc>http://micheah.top/tags/work-hard/</loc>
+    <loc>/tags/work-hard/</loc>
     <lastmod>2021-07-19T07:28:17+08:00</lastmod>
   </url><url>
-    <loc>http://micheah.top/2019/09/introduction/</loc>
+    <loc>/2019/09/introduction/</loc>
     <lastmod>2019-09-01T21:05:53+08:00</lastmod>
   </url><url>
-    <loc>http://micheah.top/tags/personal-information/</loc>
+    <loc>/tags/personal-information/</loc>
     <lastmod>2019-09-01T21:05:53+08:00</lastmod>
   </url><url>
-    <loc>http://micheah.top/2019/09/curriculum-vitae/</loc>
+    <loc>/2019/09/curriculum-vitae/</loc>
     <lastmod>2019-09-01T07:28:27+08:00</lastmod>
   </url>
 </urlset>

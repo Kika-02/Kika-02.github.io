@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://micheah.top/zh-cn/</loc>
+    <loc>/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://micheah.top/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://micheah.top/zh-cn/"
+                href="/zh-cn/"
                 />
   </url><url>
-    <loc>http://micheah.top/zh-cn/tags/</loc>
+    <loc>/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://micheah.top/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://micheah.top/zh-cn/tags/"
+                href="/zh-cn/tags/"
                 />
   </url>
 </urlset>
